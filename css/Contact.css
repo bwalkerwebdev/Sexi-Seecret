@@ -11,7 +11,7 @@
 .u-section-1 .u-image-1 {
   width: 317px;
   height: 317px;
-  background-image: url("images/3bcdfd57d718c3104b54e648b4e243a5.jpg");
+  background-image: url("../images/3bcdfd57d718c3104b54e648b4e243a5.jpg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
   margin: -283px auto 0 162px;
@@ -165,7 +165,8 @@
     margin-left: 0;
     margin-right: 0;
   }
-}.u-section-2 .u-sheet-1 {
+}
+.u-section-2 .u-sheet-1 {
   min-height: 388px;
 }
 
@@ -207,7 +208,8 @@
   .u-section-2 .u-form-1 {
     width: 340px;
   }
-}.u-section-3 .u-sheet-1 {
+}
+.u-section-3 .u-sheet-1 {
   min-height: 113px;
 }
 

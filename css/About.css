@@ -11,7 +11,7 @@
 .u-section-1 .u-image-1 {
   width: 317px;
   height: 317px;
-  background-image: url("images/3bcdfd57d718c3104b54e648b4e243a5.jpg");
+  background-image: url("../images/3bcdfd57d718c3104b54e648b4e243a5.jpg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
   margin: -283px auto 0 162px;
@@ -181,7 +181,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 414px;
-  background-image: url("images/e12ade220e986dea8d234c06cfc6d48b.jpg");
+  background-image: url("../images/e12ade220e986dea8d234c06cfc6d48b.jpg");
   background-position: 50% 50%;
 }
 

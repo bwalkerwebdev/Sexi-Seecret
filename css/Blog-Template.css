@@ -13,7 +13,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 500px;
-  background-image: url("images/default-image.jpg");
+  background-image: url("../images/default-image.jpg");
   background-position: 50% 50%;
 }
 
@@ -190,7 +190,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 500px;
-  background-image: url("images/default-image.jpg");
+  background-image: url("../images/default-image.jpg");
   background-position: 50% 50%;
 }
 
@@ -367,7 +367,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 500px;
-  background-image: url("images/default-image.jpg");
+  background-image: url("../images/default-image.jpg");
   background-position: 50% 50%;
 }
 
@@ -544,7 +544,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 500px;
-  background-image: url("images/default-image.jpg");
+  background-image: url("../images/default-image.jpg");
   background-position: 50% 50%;
 }
 
