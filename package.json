@@ -1,0 +1,19 @@
+{
+  "name": "sexi-seecret",
+  "version": "1.0.0",
+  "description": "A lingerie website designed for a client. Template created with Nicepage website builder. Notice the custom background gradient. Incorporates HTML, CSS and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwalkerwebdev/Sexi-Seecret.git"
+  },
+  "author": "Brian Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwalkerwebdev/Sexi-Seecret/issues"
+  },
+  "homepage": "https://github.com/bwalkerwebdev/Sexi-Seecret#readme"
+}
